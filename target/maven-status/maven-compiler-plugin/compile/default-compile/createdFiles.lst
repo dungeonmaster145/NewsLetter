@@ -1,0 +1,16 @@
+com/example/newsletter/Main.class
+com/example/newsletter/service/ContentRepository.class
+com/example/newsletter/controller/TopicController.class
+com/example/newsletter/repository/SubscriberRepository.class
+com/example/newsletter/controller/SubscriptionController.class
+com/example/newsletter/controller/ContentController.class
+com/example/newsletter/controller/SubscriberController.class
+com/example/newsletter/entity/Subscriber.class
+com/example/newsletter/entity/Content.class
+com/example/newsletter/repository/TopicRepository.class
+com/example/newsletter/scheduler/NewsletterScheduler.class
+com/example/newsletter/entity/Subscription.class
+com/example/newsletter/repository/SubscriptionRepository.class
+com/example/newsletter/service/EmailService.class
+com/example/newsletter/entity/Topic.class
+com/example/newsletter/repository/ContentRepository.class

@@ -1,0 +1,3 @@
+com/example/newsletter/scheduler/NewsletterSchedulerTest.class
+com/example/newsletter/service/EmailServiceTest.class
+com/example/newsletter/controller/SubscriberControllerTest.class

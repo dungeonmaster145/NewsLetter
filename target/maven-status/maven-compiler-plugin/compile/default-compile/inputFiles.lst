@@ -1,0 +1,16 @@
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/controller/ContentController.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/service/EmailService.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/repository/ContentRepository.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/entity/Topic.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/entity/Subscription.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/entity/Content.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/controller/SubscriptionController.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/entity/Subscriber.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/Main.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/repository/SubscriberRepository.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/repository/SubscriptionRepository.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/controller/SubscriberController.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/repository/TopicRepository.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/service/ContentRepository.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/controller/TopicController.java
+/Users/a32410/Documents/LPD/NewsLetter/src/main/java/com/example/newsletter/scheduler/NewsletterScheduler.java
