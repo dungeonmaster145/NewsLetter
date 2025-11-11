@@ -34,6 +34,7 @@ public class NewsletterSchedulerTest {
     @InjectMocks
     private NewsletterScheduler newsletterScheduler;
 
+
     @Test
     public void testSendNewsletters() {
         LocalDateTime now = LocalDateTime.now();
