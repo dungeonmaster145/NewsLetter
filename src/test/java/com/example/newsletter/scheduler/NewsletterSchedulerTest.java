@@ -17,7 +17,9 @@ import java.time.LocalDateTime;
 import java.util.Arrays;
 import java.util.List;
 
-import static org.mockito.Mockito.*;
+import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.Mockito.verify;
+import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
 public class NewsletterSchedulerTest {
@@ -62,7 +64,7 @@ public class NewsletterSchedulerTest {
         List<Content> contents = Arrays.asList(content);
         List<Subscription> subscriptions = Arrays.asList(subscription);
 
-        when(contentRepository.findBySendTimeBeforeAndSentFalse(now)).thenReturn(contents);
+        when(contentRepository.findBySendTimeBeforeAndSentFalse(any(LocalDateTime.class))).thenReturn(contents);
         when(subscriptionRepository.findByTopicId(1L)).thenReturn(subscriptions);
 
         newsletterScheduler.sendNewsletters();
