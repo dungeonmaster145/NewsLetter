@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.example.newsletter.scheduler.NewsletterSchedulerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.276 s <<< FAILURE! -- in com.example.newsletter.scheduler.NewsletterSchedulerTest
-com.example.newsletter.scheduler.NewsletterSchedulerTest.testSendNewsletters -- Time elapsed: 1.257 s <<< ERROR!
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.637 s <<< FAILURE! -- in com.example.newsletter.scheduler.NewsletterSchedulerTest
+com.example.newsletter.scheduler.NewsletterSchedulerTest.testSendNewsletters -- Time elapsed: 0.607 s <<< ERROR!
 org.mockito.exceptions.base.MockitoException: 
 
 Mockito cannot mock this class: class com.example.newsletter.service.EmailService.
